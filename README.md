@@ -58,7 +58,11 @@ The importance of this project lies in the context that the different domains of
 
 Additional information about the project can be found on the project:
 
-- (Slides)[https://github.com/PeishanLi/G5055_Practicum_Project2/blob/main/G5055%20Project%202%20Deck%20.pdf)
-- (Code)[https://github.com/PeishanLi/G5055_Practicum_Project2/tree/main/Codes]
+- [Slides](https://github.com/PeishanLi/G5055_Practicum_Project2/blob/main/G5055%20Project%202%20Deck%20.pdf)
+- [Code](https://github.com/PeishanLi/G5055_Practicum_Project2/tree/main/Codes)
 
-Team member contact information can also be found on the slides.
+NLP Tech Used:
+- TF-IDF
+- Word2Vec
+- Doc2Vec
+- Similarity Score
