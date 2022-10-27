@@ -21,7 +21,7 @@ English Reddit comments with 27 labeled emotions and neutral
   
  Summary:
  
- Both Transfer Learning models, based on DistilBERT, handled multi-label predictions better than LSTM model. LSTM performed decently on average, scoring ~30%, but did so by taking advantage of class imbalances, steadfastly predicting a ‘neutral’ sentiment. Neutral documents made up 28.3% of the instances in the dataset![image](https://user-images.githubusercontent.com/46760000/198363897-261a01b7-a1ee-499a-adab-e6f2a7335428.png)
+ Both Transfer Learning models, based on DistilBERT, handled multi-label predictions better than LSTM model. LSTM performed decently on average, scoring ~30%, but did so by taking advantage of class imbalances, steadfastly predicting a ‘neutral’ sentiment. Neutral documents made up 28.3% of the instances in the dataset.
 
   
   
